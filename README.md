@@ -1,1 +1,1 @@
-# 2D-aim-shooter
+# 2D-shooter
